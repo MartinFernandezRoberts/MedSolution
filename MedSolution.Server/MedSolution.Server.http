@@ -1,0 +1,6 @@
+@MedSolution.Server_HostAddress = http://localhost:5165
+
+GET {{MedSolution.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
